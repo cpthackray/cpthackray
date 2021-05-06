@@ -1,4 +1,12 @@
-### Hi there 👋
+### user cpthackray 
+🏃 🖥️ 👌 ☕
+
+I am a Research Associate working with the Biogeochemistry of Global Contaminants group in the School of Engineering and Applied Sciences at Harvard University. My research is the development of numerical models to study how biogeochemical processes affect the fate, transport and food-web bioaccumulation of trace metals and organic chemicals in the environment and marine ecosystems.
+
+
+
+### CV
+ 💻 🌏 Harvard &nbsp;&nbsp;  🎓 ⛅ MIT &nbsp;&nbsp;  🎓 💥 Dalhousie  &nbsp;&nbsp; 🎓 🌊 MUN
 
 <!--
 **cpthackray/cpthackray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
