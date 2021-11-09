@@ -4,7 +4,7 @@
 <a href="#"><img src="https://img.shields.io/badge/_-_-blue.svg?style=social&logo=python" width=40> </a><a href="#"><img src="https://img.shields.io/badge/_-_-red.svg?logo=rust&style=social" width=40></a> <a href="#"><img src="https://img.shields.io/badge/_-_-black.svg?logo=fortran&style=social" width=40></a>
 
 
-I am a Research Associate working with the Biogeochemistry of Global Contaminants group in the School of Engineering and Applied Sciences at Harvard University. My research is the development of numerical models to study how biogeochemical processes affect the fate, transport and food-web bioaccumulation of trace metals and organic chemicals in the environment and marine ecosystems.
+I am a Research Associate working with the Biogeochemistry of Global Contaminants group in the School of Engineering and Applied Sciences at Harvard University. My research is the development of numerical models to study how biogeochemical processes affect the fate, transport and food-web bioaccumulation of trace metals and organic chemicals in the environment, marine ecosystems, and humans.
 
 
 ## 💻 🌏 Harvard &nbsp;&nbsp;  🎓 ⛅ MIT &nbsp;&nbsp;  🎓 💥 Dalhousie  &nbsp;&nbsp; 🎓 🌊 MUN
